@@ -1,0 +1,30 @@
+.main {
+  margin-top: 5em;
+}
+
+.center {
+  justify-content: center;
+  padding: 10px;
+}
+
+.item {
+  padding: 15px !important;
+}
+
+i.icon {
+  float: right;
+  font-size: 20px;
+  cursor: pointer;
+}
+button.right{
+float:right;
+}
+.center-div{
+  display: flex;
+  justify-content: center;
+}
+
+
+
+
+
